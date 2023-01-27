@@ -1,8 +1,0 @@
-name: Post Bestige_Workflow comment
-on:
-  pull_request:
-    types: [opened]
-jobs:
-  build:
-    name: Post Bestige_Workflow comment
-    runs-on: ubuntu-latest
